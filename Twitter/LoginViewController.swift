@@ -1,10 +1,4 @@
-//
-//  LoginViewController.swift
-//  Twitter
-//
-//  Created by Carlos Estrada on 9/23/19.
-//  Copyright © 2019 Dan. All rights reserved.
-//
+
 
 import UIKit
 
