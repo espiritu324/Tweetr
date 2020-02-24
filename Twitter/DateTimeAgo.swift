@@ -1,10 +1,3 @@
-//
-//  DateTimeAgo.swift
-//  Twitter
-//
-//  Created by Carlos Estrada on 10/7/19.
-//  Copyright © 2019 Dan. All rights reserved.
-//
 
 import Foundation
 
